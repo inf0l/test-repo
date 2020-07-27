@@ -1,28 +1,16 @@
-# This is a large heading
+# Linus Bergman
 
-## This is a smaller heading
+### My Learning Journey
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I'm currently trying to learn how to code. I'm doing a couple of courses on Coursera while at the same time reading a few books (my goal is to complete the OSSU roadmap):
 
-- This is
-- an unordered
-- list
+**Courses**
+- *Python for Everybody Specialization* on Coursera. Great course and teacher!
+- *The Unix Workbench* on Coursera. Good overview of Linux CLI and intro to git.
 
-1. This is
-2. an ordered
-3. list
+**Books**
+- *A Practical Guide to Commands, Editors, and Shell Programming*, Sobell, Mark.
 
-Here is `some code` in the middle of a sentence.
+### Going forward
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+I'm hoping to stay committed this time, but it feels like I'm in a better place and understanding core concepts a bit more. Last time around I started with Harvard's CS50 which, while fun for the first 4-5 weeks quickly turned very difficult.
